@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+EStudiante de cuarto semestre ingenieria de sistemas
+Tecnologo en electronica de la universidad del Valle
 <!--
 **Andres111203/Andres111203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
