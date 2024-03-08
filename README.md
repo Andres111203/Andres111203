@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently learning ethical hacking
-- :book: I'm Systems engineering student at the Universidad del Valle headquarters Tulua
+- :book: I'm Systems engineering student at the Universidad del Valle in Tulua, Colombia
 
 <!--
 **Andres111203/Andres111203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
