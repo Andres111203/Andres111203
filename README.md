@@ -2,7 +2,8 @@
 Estudiante de cuarto semestre ingenieria de sistemas<br> 
 Tecnologo en electronica de la universidad del Valle
 
-- 🔭 I’m currently learning ethical hacking 
+- 🔭 I’m currently learning ethical hacking
+- :book: I'm systems 
 <!--
 **Andres111203/Andres111203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
