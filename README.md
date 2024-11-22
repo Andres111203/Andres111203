@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- 🔭 I’m currently improving better develop web skills 
 - 🔭 I’m currently learning ethical hacking
 - :book: I'm Systems engineering student at the Universidad del Valle in Tulua, Colombia
 
